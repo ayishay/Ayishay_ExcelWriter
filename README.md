@@ -1,7 +1,7 @@
 Ayishay_ExcelWriter
 ===================
-C# Excel Writer! one or multi-sheets Excel Writer!
-Convert datatables to Excel spreadsheets
+* C# Excel Writer! one or multi-sheets Excel Writer!
+* Convert datatables to Excel spreadsheets!
 
 
 Features
