@@ -17,7 +17,6 @@ namespace Ayishay_writerX
     * writer.DatatableToExcel(table1, sheetName1);
     * writer.DatatableToExcel(table2, sheetName2);
     * writer.saveExcel();
-    * Process.Start(file.Name);
     * }
     */
     public class AyishayWriter
