@@ -16,7 +16,10 @@ How to use
 ==========
 1. Add "Microsoft.Office.Interop.Excel.dll" to Reference
 2. Add "AyishayWriter.cs" to your project
-3. AyishayWriter ewriter = new AyishayWriter(fileName);
+3. 
+
+<code>AyishayWriter ewriter = new AyishayWriter(fileName);
    ewriter.DatatableToExcel(table1, sheetName1);
    ewriter.DatatableToExcel(table2, sheetName2);
    ewriter.saveExcel();
+</code>
