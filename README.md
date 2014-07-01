@@ -18,8 +18,9 @@ How to use
 2. Add "AyishayWriter.cs" to your project
 3. Do the followings
 
-<code>AyishayWriter ewriter = new AyishayWriter(fileName);</code>
-<code>ewriter.DatatableToExcel(table1, sheetName1);</code>
-<code>ewriter.DatatableToExcel(table2, sheetName2);</code>
-<code>ewriter.saveExcel();</code>
+<pre>AyishayWriter ewriter = new AyishayWriter(fileName);
+ewriter.DatatableToExcel(table1, sheetName1);
+ewriter.DatatableToExcel(table2, sheetName2);
+ewriter.saveExcel();
+</pre>
 
