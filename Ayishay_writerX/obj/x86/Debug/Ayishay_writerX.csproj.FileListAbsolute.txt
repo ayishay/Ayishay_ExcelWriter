@@ -1,0 +1,5 @@
+C:\Users\szhang\Documents\GitHub\Ayishay_ExcelWriter\Ayishay_writerX\bin\Debug\Ayishay_writerX.exe
+C:\Users\szhang\Documents\GitHub\Ayishay_ExcelWriter\Ayishay_writerX\bin\Debug\Ayishay_writerX.pdb
+C:\Users\szhang\Documents\GitHub\Ayishay_ExcelWriter\Ayishay_writerX\obj\x86\Debug\Ayishay_writerX.csprojResolveAssemblyReference.cache
+C:\Users\szhang\Documents\GitHub\Ayishay_ExcelWriter\Ayishay_writerX\obj\x86\Debug\Ayishay_writerX.exe
+C:\Users\szhang\Documents\GitHub\Ayishay_ExcelWriter\Ayishay_writerX\obj\x86\Debug\Ayishay_writerX.pdb
