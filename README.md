@@ -14,7 +14,7 @@ Features
 
 How to use
 ==========
-1. Add "Microsoft.Office.Interop.Excel.dll" to Reference
+1. Add "Microsoft.Office.Interop.Excel.dll" to Reference (which is in "Ayishay_ExcelWriter / Ayishay_writerX /")
 2. Add "AyishayWriter.cs" to your project
 3. Do the followings
 
