@@ -30,7 +30,7 @@ namespace Ayishay_writerX
             table2.Rows.Add(new object[] { "Value2221", "Value2222", "Value2223" });
             table2.Rows.Add(new object[] { "Value2231", "Value2232", "Value2233" });
 
-            string filename = "thisfile.xls";
+            string filename = "thisfile.xlsx";
             AyishayWriter writer = new AyishayWriter(filename);
             writer.DatatableToExcel(table1, "table1");
             writer.DatatableToExcel(table2, "table2");
